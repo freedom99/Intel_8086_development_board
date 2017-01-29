@@ -1,0 +1,295 @@
+(ExpressProject "mojibur_sir"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\mojibur_sir.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RESAR_IS_2/SO
+      (FullPartName "RESAR_IS_2/SO.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RESARR_IS_10/SO
+      (FullPartName "RESARR_IS_10/SO.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (4075
+      (FullPartName "4075.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "1"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR
+      (FullPartName "CAPACITOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (NOT
+      (FullPartName "NOT.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (8251
+      (FullPartName "8251.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    (CON8
+      (FullPartName "CON8.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONNECTOR EDGE 24"
+      (FullPartName "CONNECTOR EDGE 24.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN SOCKET 8"
+      (FullPartName "CONN SOCKET 8.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (8259A
+      (FullPartName "8259A.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    ("CONNECTOR EDGE 6x2"
+      (FullPartName "CONNECTOR EDGE 6x2.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONNECTOR EDGE 5"
+      (FullPartName "CONNECTOR EDGE 5.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (JUMPER3
+      (FullPartName "JUMPER3.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (8254
+      (FullPartName "8254.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    (8255
+      (FullPartName "8255.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    (4072
+      (FullPartName "4072.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (7432
+      (FullPartName "7432.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (7404
+      (FullPartName "7404.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "1"))
+    (2864
+      (FullPartName "2864.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\PROM.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\mojibur_sir.dsn")
+      (Path "Design Resources" ".\mojibur_sir.dsn" "SCHEMATIC1")
+      (Path "Simulation Resources")
+      (Path "Simulation Resources" "Indesign")
+      (Select "Design Resources" ".\mojibur_sir.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 279 0 304"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1165 25 325")
+        (Scroll "-61 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PORT_TIMER_DECODER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1190 50 350")
+        (Scroll "-61 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MEMORY MAPPING"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1215 75 375")
+        (Scroll "-61 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "INTERRUPT_CONTROLLER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1240 100 400")
+        (Scroll "-61 292")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PROCESSOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1265 125 425")
+        (Scroll "-61 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "RAM MEMORY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1290 150 450")
+        (Scroll "-61 292")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SERIAL_PORT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1140 0 300")
+        (Scroll "-61 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "TIMERS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1165 25 325")
+        (Scroll "-61 52")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "top_page"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1190 50 350")
+        (Scroll "-61 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "WAIT_STAGE_GENERATOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1215 75 375")
+        (Scroll "-61 292")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ALL DECODER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1240 100 400")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "all_circuit_in_one_page"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1265 125 425")
+        (Scroll "-61 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "EEPROM MEMORY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1290 150 450")
+        (Scroll "-61 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\PROJECT8086_DEV_BOARD\MOJIBUR_SIR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "FRONT Page")))
+  (MPSSessionName "root")
+  (Folder "Simulation Resources"
+    (Folder "Indesign"
+      (File ".\indesign\cds.lib"
+        (Type "Report")
+        (DisplayName ".\Indesign\cds.lib"))
+      (File ".\indesign\hdl.var"
+        (Type "Report")
+        (DisplayName ".\Indesign\hdl.var"))
+      (File ".\indesign\mojibur_sir.vhd"
+        (Type "VHDL Source")
+        (DisplayName ".\Indesign\MOJIBUR_SIR.vhd"))
+      (File ".\indesign\stubi.vhd"
+        (Type "VHDL Source")
+        (DisplayName ".\Indesign\StubI.vhd"))
+      (File ".\indesign\sdf.cmd"
+        (Type "Report")
+        (DisplayName ".\Indesign\sdf.cmd")))))

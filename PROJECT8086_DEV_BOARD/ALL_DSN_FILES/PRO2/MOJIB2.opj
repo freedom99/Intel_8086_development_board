@@ -1,0 +1,86 @@
+(ExpressProject "MOJIB2"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\mojib2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "J:\mojib2.dsn")
+      (Path "Design Resources" "J:\mojib2.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "J:\mojib2.dsn" "SCHEMATIC2")
+      (Select "Design Resources" "J:\mojib2.dsn" "SCHEMATIC2"
+         "INTERRUPT_CONTROLLER"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 303 0 262"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 972 125 425")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "J:\MOJIB2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SERIAL_PORT")))
+  (PartMRUSelector
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("CONN TRBLK 4"
+      (FullPartName "CONN TRBLK 4.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RESAR_IS_4/SM
+      (FullPartName "RESAR_IS_4/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (74LS251
+      (FullPartName "74LS251.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PSPICE\74LS.OLB")
+      (DeviceIndex "0"))
+    ("SW DIP-3/SM"
+      (FullPartName "SW DIP-3/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (74LS393
+      (FullPartName "74LS393.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PSPICE\74LS.OLB")
+      (DeviceIndex "1"))
+    (1489
+      (FullPartName "1489.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\LINEDRIVERRECEIVER.OLB")
+      (DeviceIndex "0"))
+    (1488
+      (FullPartName "1488B.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\LINEDRIVERRECEIVER.OLB")
+      (DeviceIndex "1"))
+    (8251
+      (FullPartName "8251.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "root"))
